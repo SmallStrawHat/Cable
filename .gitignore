@@ -1,0 +1,11 @@
+/Library/
+/obj/
+/target/
+/ProjectSettings/
+/Temp/
+/Assets/abandon/
+/Assets/BF/
+/Assets/Materials/
+*.jpg
+*.meta
+*.png
